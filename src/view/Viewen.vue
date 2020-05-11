@@ -15,7 +15,7 @@ import Onepage from '../components/common/Onepage'
 import Narbars from '../components/common/Narbars'
 import Lunbo from '../components/common/Lunbo'
 import Pccenter from '../components/common/Pccenter'
-import Last from './common/Last'
+import Last from './commons/Last'
 export default {
       name:'Viewen',
       components:{

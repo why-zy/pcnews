@@ -42,7 +42,7 @@ export default {
     width: 20px;
      height: 20px;
     border-radius: 50%;
-           background-color: #f5a003;
+           background-color: #f1eee8;
 }
 
 }

@@ -11,9 +11,10 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
+
 .last img{
     width: 1920px;
-    height: 250px;
+    height: 222px;
 }
 </style>

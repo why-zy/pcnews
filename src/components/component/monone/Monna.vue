@@ -1,7 +1,7 @@
 <template>
   <div class="monna">
       <div class="monna1">
-          <span>国资企要闻</span>
+          <span>国资国企要闻</span>
       </div>
       <img src="../../../assets/img/jiao.png" alt="">
       <div class="monna2">
@@ -53,6 +53,7 @@ export default {
     height:60px;
     background-color: #d51814;
     font-size: 27px;
+          font-weight:bold;
     text-align: center;
     line-height:60px;
 }

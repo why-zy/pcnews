@@ -1,7 +1,7 @@
 <template>
   <div class="monna">
       <div class="monna1">
-          <span>国资企要闻</span>
+          <span>国资国企网群</span>
       </div>
       <img src="../../../assets/img/jiao.png" alt="">
       <div class="monna2">
@@ -57,7 +57,7 @@ export default {
     top: 2050px;
     float: left;
     width: 1200px;
-    height: 275px;
+    height: 210px;
 
 
 }
@@ -83,6 +83,7 @@ export default {
 .monna1 span{
 align-items: center;
 color: #fffeff;
+      font-weight:bold;
 }
 .monna img{
     position:absolute;
@@ -106,14 +107,14 @@ color: #fffeff;
 .center img{
         float: left;
     top:90px;
-    left: 80px;
+    left: 60px;
     width: 110px;
     height: 90px;
 }
 .center1 img{
         float: left;
     top:90px;
-    left: 230px;
+    left: 220px;
     width: 110px;
     height: 90px;
 }
@@ -127,36 +128,37 @@ color: #fffeff;
 .center3 img{
         float: left;
     top:90px;
-    left: 530px;
+    left: 545px;
     width: 110px;
     height: 90px;
 }
 .center4 img{
         float: left;
     top:90px;
-    left: 680px;
+    left: 705px;
     width: 110px;
     height: 90px;
 }
 .center5 img{
         float: left;
     top:90px;
-    left: 830px;
+    left: 870px;
     width: 110px;
     height: 90px;
 }
 .center6 img{
         float: left;
     top:90px;
-    left: 980px;
+    left: 1030px;
     width: 110px;
     height: 90px;
 }
 .right img{
     float: left;
     top:100px;
-    left: 1130px;
+    left: 1170px;
     width: 30px;
     height: 70px;
 }
+
 </style>

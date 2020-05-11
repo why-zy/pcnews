@@ -1,7 +1,7 @@
 <template>
   <div class="monna">
       <div class="monna1">
-          <span>国资企要闻</span>
+          <span>工作动态</span>
       </div>
       <img src="../../../assets/img/jiao.png" alt="">
       <div class="monna2">
@@ -97,6 +97,7 @@ export default {
 .monna1 span{
 align-items: center;
 color: #fffeff;
+      font-weight:bold;
 }
 .monna img{
     position:absolute;
